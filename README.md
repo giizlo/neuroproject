@@ -1,2 +1,2 @@
 # neuroproject
-messenger with embedded neural networks
+Читать не умею, буду ебашить герыч
