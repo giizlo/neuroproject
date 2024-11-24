@@ -4,7 +4,8 @@
   "description": "server app for the neuromessanger",
   "main": "start.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node start.js",
+    "test": "jest"
   },
   "repository": {
     "type": "git",
