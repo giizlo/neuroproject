@@ -1,0 +1,24 @@
+{
+  "name": "neuro",
+  "version": "1.0.0",
+  "description": "server app for the neuromessanger",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giizlo/neuroproject.git"
+  },
+  "keywords": [
+    "AI",
+    "messanger",
+    "project"
+  ],
+  "author": "giizlo, BarBariscka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giizlo/neuroproject/issues"
+  },
+  "homepage": "https://github.com/giizlo/neuroproject#readme"
+}
